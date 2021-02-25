@@ -1,8 +1,13 @@
 {
-  "name": "@dp/cloud-storage",
+  "name": "@daipeng7/cloud-storage",
   "version": "0.0.1",
   "keywords": "oss cos, cloud storage",
   "description": "Simple wrapper for uploading files from oss and css",
+  "homepage": "https://github.com/daipeng7/cloud-storage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daipeng7/cloud-storage.git"
+  },
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
