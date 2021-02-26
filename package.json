@@ -1,6 +1,6 @@
 {
   "name": "@daipeng7/cloud-storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": "oss cos, cloud storage",
   "description": "Simple wrapper for uploading files from oss and css",
   "homepage": "https://github.com/daipeng7/cloud-storage",
@@ -14,7 +14,7 @@
   },
   "author": "daipeng7",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "ali-oss": "^6.13.2",
     "axios": "^0.21.1"
   }
